@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-725-feat-frontend-campaign-printable-certificate",
+    "feat/issue-736-feat-campaign-campaign-carbon-certificate",
+    "main",
+    "origin",
+    "security/issue-744-docs-campaign-campaign-contract-architecture"
+  ],
+  "parent": {
+    "feat/issue-725-feat-frontend-campaign-printable-certificate": "main",
+    "feat/issue-736-feat-campaign-campaign-carbon-certificate": "main",
+    "main": null,
+    "origin": "main",
+    "security/issue-744-docs-campaign-campaign-contract-architecture": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-725-feat-frontend-campaign-printable-certificate",
+    "feat/issue-736-feat-campaign-campaign-carbon-certificate",
+    "origin",
+    "security/issue-744-docs-campaign-campaign-contract-architecture"
+  ]
+}
